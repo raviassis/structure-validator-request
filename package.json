@@ -1,0 +1,17 @@
+{
+  "name": "structure-validator-request",
+  "version": "1.0.0",
+  "description": "This project is a middleware to validate requests data on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "raviassis",
+  "license": "ISC",
+  "dependencies": {
+    "structure": "^2.0.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
